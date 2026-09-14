@@ -21,7 +21,7 @@ Gosto de entender como dados brutos viram informação que gera valor de verdade
 
 **Pipeline de dados de Fórmula 1** — construído no Databricks usando arquitetura medalhão (Bronze/Silver/Gold), com PySpark, Delta Lake e Unity Catalog, cobrindo desde a ingestão dos dados brutos até a modelagem para análise. Inclui versões com carga full refresh e incremental, além de orquestração via Jobs.
 
-🔗 
+🔗 https://github.com/Dudamaiaaa/f1-data-pipeline-databricks.git
 
 ---
 
